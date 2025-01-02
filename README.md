@@ -2,5 +2,25 @@
 
 ECE 298 Course Project
 
-Used the STM NUCLEO64-F401RE Microcontroller to develop a feasability model for a Water Reservoir System. 
+Used the STM NUCLEO64-F401RE Microcontroller to develop a feasability and prototype model for a Water Reservoir System. 
+![image](https://github.com/user-attachments/assets/14768400-7dc9-4287-b7eb-60eb51bce173)
 
+**Technologies Used:**
+- STM NUCLEO64-F401RE
+- STM32 IDE
+- Servo Motor
+- DC Brushed Motor
+- RGB LED
+- USART
+- Potentiometer
+- RPM Speed Sensor
+- HCSR04 Ultrasonic Motion Sensor
+  
+Additionally used:
+CMOS Buffer to level-up signals
+CMOS/TTL Buffer to level-down signals
+
+**Included Folders:**
+1. ECE298_Exercises: All exercises to learn how to work around with actuators and sensors
+2. ECE298: Water Reservoir System Model code developed with STM32 IDE
+3. ECE298_Lab_B4: Prototype Model; Includes Prototype Schematic, PCB Layout
