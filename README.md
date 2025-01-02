@@ -3,7 +3,8 @@
 ECE 298 Course Project
 
 Used the STM NUCLEO64-F401RE Microcontroller to develop a feasability and prototype model for a Water Reservoir System. 
-![ece298_project](https://github.com/user-attachments/assets/e0b9e454-4e91-4039-888d-5fcce33a36df)
+![ece298_project](https://github.com/user-attachments/assets/861414f4-ff0c-4ef7-8b83-5ca78768045c)
+
 
 
 **Technologies Used:**
